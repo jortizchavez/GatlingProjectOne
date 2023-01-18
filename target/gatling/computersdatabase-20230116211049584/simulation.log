@@ -1,0 +1,7 @@
+RUN	com.gatling.tests.ComputersDatabase	computersdatabase	1673903449584	 	3.6.1
+REQUEST		ComputersDatabase	1673903464565	1673903464566	KO	j.n.UnknownHostException: computer-database.gatling.io
+USER	ComputersDatabase	START	1673903464534
+REQUEST		CreateDatabasePage	1673903468600	1673903468600	KO	j.n.UnknownHostException: computer-database.gatling.io
+REQUEST		CreateNewComputer	1673903496632	1673903496636	KO	j.n.UnknownHostException: Host desconocido (computer-database.gatling.io)
+REQUEST		FilterCOmputer	1673903507650	1673903514017	OK	 
+USER	ComputersDatabase	END	1673903514094

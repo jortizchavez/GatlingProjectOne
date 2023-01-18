@@ -1,0 +1,10 @@
+{
+  "simulation": "com.gatling.tests.SearchAndEditComputer",
+  "simulationId": "searchandeditcomputer",
+  "start": 1673971757612,
+  "description": "Search and Edit",
+  "scenarios": ["SearchAndEditComputer"],
+  "assertions": [
+
+  ]
+}

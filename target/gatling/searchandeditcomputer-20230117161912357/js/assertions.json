@@ -1,0 +1,10 @@
+{
+  "simulation": "com.gatling.tests.SearchAndEditComputer",
+  "simulationId": "searchandeditcomputer",
+  "start": 1673972352357,
+  "description": "Search adn Edit with Ramp",
+  "scenarios": ["Users", "Admins"],
+  "assertions": [
+
+  ]
+}
